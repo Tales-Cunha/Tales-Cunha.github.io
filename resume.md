@@ -15,13 +15,13 @@ lang: en
 
   <div class="timeline-item">
     <p class="timeline-date">Jan 2025 – Present</p>
-    <h4>Backend Developer Intern — V-Lab (VTEX), Recife</h4>
+    <h4>Backend Developer Intern — V-Lab (VTEX's research lab), Recife</h4>
     <p>Building scalable microservices and backend plugins using TypeScript and NestJS. Working on the VTEX IO platform to deliver high-performance e-commerce solutions.</p>
   </div>
 
   <div class="timeline-item">
     <p class="timeline-date">2024</p>
-    <h4>Research Fellow — V-Lab (VTEX) via Softex, Recife</h4>
+    <h4>Research Fellow — Softex, Recife</h4>
     <p>Analyzed code quality in AI-generated pull requests. Developed tooling in Python to measure and report quality metrics across open-source repositories.</p>
   </div>
 

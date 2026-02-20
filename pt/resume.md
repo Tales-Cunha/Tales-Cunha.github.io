@@ -15,13 +15,13 @@ lang: pt
 
   <div class="timeline-item">
     <p class="timeline-date">Jan 2025 – Presente</p>
-    <h4>Estagiário de Backend — V-Lab (VTEX), Recife</h4>
+    <h4>Estagiário de Backend — V-Lab (laboratório de pesquisa da VTEX), Recife</h4>
     <p>Desenvolvimento de microsserviços e plugins backend escaláveis com TypeScript e NestJS na plataforma VTEX IO para soluções de e-commerce de alta performance.</p>
   </div>
 
   <div class="timeline-item">
     <p class="timeline-date">2024</p>
-    <h4>Pesquisador — V-Lab (VTEX) via Softex, Recife</h4>
+    <h4>Pesquisador — Softex, Recife</h4>
     <p>Análise de qualidade de código em pull requests gerados por IA. Desenvolvimento de ferramentas em Python para medir e reportar métricas de qualidade em repositórios open-source.</p>
   </div>
 

@@ -9,9 +9,9 @@ lang: en
 
 I'm **Tales Cunha**, a Backend Developer based in Recife, Brazil.
 
-I currently work as a Backend Developer Intern at **V-Lab (VTEX)**, where I build scalable microservices and backend plugins using TypeScript and NestJS. I'm also an incoming **Master's student in Computer Science at UFPE** (2026), where my research interests lie in software quality, static analysis, and exception handling.
+I currently work as a Backend Developer Intern at **V-Lab**, VTEX's research lab, where I build scalable microservices and backend plugins using TypeScript and NestJS. I'm also an incoming **Master's student in Computer Science at UFPE** (2026), where my research interests lie in software quality, static analysis, and exception handling.
 
-Previously, I was a Research Fellow at **V-Lab (VTEX)** via Softex (analyzing code quality in AI-generated pull requests) and a Backend Intern at **Stellantis** (automotive IoT systems).
+Previously, I was a Research Fellow at **Softex** (analyzing code quality in AI-generated pull requests) and a Backend Intern at **Stellantis** (automotive IoT systems).
 
 Outside of work, I competed for **RoboCIn** — UFPE's autonomous robotics team — where we took **1st place at CBR 2024** and **1st place at LARC 2024**.
 
