@@ -15,7 +15,10 @@
   <body>
     <header class="site-header">
       <div class="wrapper">
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <a class="site-title" href="{{ '/' | relative_url }}">
+          <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="{{ site.title }}" class="nav-avatar">
+          {{ site.title }}
+        </a>
 
         <nav class="site-nav">
           <input type="checkbox" id="nav-trigger" class="nav-trigger" />
