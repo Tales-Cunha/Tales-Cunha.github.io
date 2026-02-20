@@ -1,5 +1,12 @@
 ---
 layout: home
+title: Tales Cunha
+lang: en
 ---
 
-Welcome to my portfolio! Here you'll find my latest thoughts and projects.
+<div class="highlight-box">
+  Backend Developer & incoming CS Master's student at UFPE. I build scalable systems,
+  research software quality, and occasionally win robotics championships.
+</div>
+
+### Latest Posts

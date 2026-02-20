@@ -1,0 +1,142 @@
+/* Custom overrides for Tales Cunha's portfolio */
+
+/* Typography */
+body {
+  font-family: 'Inter', sans-serif;
+  color: #1a1a1a;
+  line-height: 1.7;
+}
+
+code, pre {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Language switcher */
+.lang-switch {
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  padding: 2px 8px !important;
+  font-size: 0.85rem;
+  margin-left: 8px;
+}
+
+.lang-switch:hover {
+  background-color: #f5f5f5;
+}
+
+/* Download button */
+.btn-download {
+  display: inline-block;
+  background-color: #1a1a1a;
+  color: #fff !important;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  margin: 1rem 0;
+  transition: background-color 0.2s;
+}
+
+.btn-download:hover {
+  background-color: #333;
+  text-decoration: none;
+}
+
+/* Section headings */
+.section-label {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  color: #888;
+  margin-bottom: 0.25rem;
+}
+
+/* Timeline for experience */
+.timeline {
+  border-left: 2px solid #e0e0e0;
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.timeline-item {
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.timeline-item::before {
+  content: '';
+  width: 10px;
+  height: 10px;
+  background: #1a1a1a;
+  border-radius: 50%;
+  position: absolute;
+  left: -1.95rem;
+  top: 6px;
+}
+
+.timeline-date {
+  font-size: 0.8rem;
+  color: #888;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Project cards */
+.project-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  padding: 1.25rem;
+  margin-bottom: 1.25rem;
+  transition: box-shadow 0.2s;
+}
+
+.project-card:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.project-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 0.75rem;
+}
+
+.tag {
+  background: #f0f0f0;
+  border-radius: 3px;
+  padding: 2px 8px;
+  font-size: 0.78rem;
+  font-family: 'JetBrains Mono', monospace;
+  color: #444;
+}
+
+/* Skills grid */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 8px;
+  margin: 1rem 0;
+}
+
+.skill-item {
+  background: #f5f5f5;
+  border-radius: 4px;
+  padding: 6px 10px;
+  font-size: 0.85rem;
+  font-family: 'JetBrains Mono', monospace;
+  text-align: center;
+}
+
+/* Highlight box */
+.highlight-box {
+  border-left: 3px solid #1a1a1a;
+  padding: 0.75rem 1rem;
+  background: #fafafa;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}

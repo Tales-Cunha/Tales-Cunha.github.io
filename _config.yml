@@ -1,12 +1,13 @@
-title: My Portfolio
-email: your-email@example.com
+title: Tales Cunha
+email: tvac@cin.ufpe.br
 description: >-
-  A minimalist portfolio and blog built with Jekyll and Minima.
+  Backend Developer & CS Master's student at UFPE. Specializing in scalable systems,
+  static analysis, and software quality.
 baseurl: ""
-url: "https://your-username.github.io"
+url: "https://tales-cunha.github.io"
 
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username: Tales-Cunha
+linkedin_username: talesv-cunha
 
 theme: minima
 plugins:
@@ -15,5 +16,15 @@ plugins:
 
 minima:
   social_links:
-    - { platform: github, user: jekyll }
-    - { platform: twitter, user: jekyllrb }
+    - { platform: github, user: Tales-Cunha }
+    - { platform: linkedin, user: talesv-cunha }
+
+defaults:
+  - scope:
+      path: "pt"
+    values:
+      lang: pt
+  - scope:
+      path: ""
+    values:
+      lang: en
