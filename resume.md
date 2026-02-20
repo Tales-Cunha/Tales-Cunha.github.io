@@ -21,8 +21,8 @@ lang: en
 
   <div class="timeline-item">
     <p class="timeline-date">2024</p>
-    <h4>Research Fellow — Softex, Recife</h4>
-    <p>Investigated test coverage quality of AI-generated pull requests. Developed tooling in Python to measure and report coverage deltas across open-source repositories.</p>
+    <h4>Research Fellow — V-Lab (VTEX) via Softex, Recife</h4>
+    <p>Analyzed code quality in AI-generated pull requests. Developed tooling in Python to measure and report quality metrics across open-source repositories.</p>
   </div>
 
   <div class="timeline-item">

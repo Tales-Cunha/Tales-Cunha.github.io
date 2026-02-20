@@ -11,7 +11,7 @@ Sou **Tales Cunha**, Desenvolvedor Backend baseado em Recife, Brasil.
 
 Atualmente trabalho como Estagiário de Backend no **V-Lab (VTEX)**, onde desenvolvo microsserviços escaláveis e plugins backend utilizando TypeScript e NestJS na plataforma VTEX IO. Em 2026, inicio o **Mestrado em Ciência da Computação na UFPE**, com interesse em qualidade de software, análise estática e tratamento de exceções.
 
-Anteriormente, fui Pesquisador na **Softex** (analisando cobertura de testes em pull requests gerados por IA) e Estagiário de Backend na **Stellantis** (sistemas IoT automotivos).
+Anteriormente, fui Pesquisador no **V-Lab (VTEX)** via Softex (analisando qualidade de código em pull requests gerados por IA) e Estagiário de Backend na **Stellantis** (sistemas IoT automotivos).
 
 Fora do trabalho, competia pelo **RoboCIn** — equipe de robótica autônoma da UFPE — onde conquistamos o **1º lugar no CBR 2024** e o **1º lugar no LARC 2024**.
 
