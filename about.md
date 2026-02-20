@@ -5,6 +5,8 @@ permalink: /about/
 lang: en
 ---
 
+<img src="/assets/images/profile.jpg" alt="Tales Cunha" class="profile-photo">
+
 I'm **Tales Cunha**, a Backend Developer based in Recife, Brazil.
 
 I currently work as a Backend Developer Intern at **V-Lab (VTEX)**, where I build scalable microservices and backend plugins using TypeScript and NestJS. I'm also an incoming **Master's student in Computer Science at UFPE** (2026), where my research interests lie in software quality, static analysis, and exception handling.

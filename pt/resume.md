@@ -58,3 +58,15 @@ lang: pt
 
 - 🥇 **1º Lugar** — CBR 2024 (Competição Brasileira de Robótica), RoboCIn Simulação 2D
 - 🥇 **1º Lugar** — LARC 2024 (Competição Latino-Americana de Robótica), RoboCIn Simulação 2D
+
+---
+
+### Publicações
+
+- **Exception Handling Patterns in Java Projects** — *SBES 2024*
+  Cunha, T. et al. Análise estática de padrões de tratamento de exceções em repositórios Java open-source.
+  [→ Ler artigo](https://sol.sbc.org.br/index.php/sbes/article/view/30420)
+
+- **Test Coverage of Code Changes in AI-Generated Pull Requests** — *MSR 2026 (Mining Challenge)*
+  Cunha, T. et al. Estudo empírico sobre a qualidade da cobertura de testes em pull requests gerados por assistentes de código com IA.
+  [→ Ler artigo](https://2026.msrconf.org/details/msr-2026-mining-challenge/58/Test-Coverage-of-Code-Changes-in-AI-Generated-Pull-Requests)

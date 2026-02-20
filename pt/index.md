@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Tales Cunha
 permalink: /pt/
 lang: pt
 ---

@@ -1,5 +1,16 @@
 /* Custom overrides for Tales Cunha's portfolio */
 
+/* Profile photo */
+.profile-photo {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 0 1.25rem 0;
+  border: 3px solid #e0e0e0;
+}
+
 /* Typography */
 body {
   font-family: 'Inter', sans-serif;

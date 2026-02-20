@@ -5,6 +5,8 @@ permalink: /pt/about/
 lang: pt
 ---
 
+<img src="/assets/images/profile.jpg" alt="Tales Cunha" class="profile-photo">
+
 Sou **Tales Cunha**, Desenvolvedor Backend baseado em Recife, Brasil.
 
 Atualmente trabalho como Estagiário de Backend no **V-Lab (VTEX)**, onde desenvolvo microsserviços escaláveis e plugins backend utilizando TypeScript e NestJS na plataforma VTEX IO. Em 2026, inicio o **Mestrado em Ciência da Computação na UFPE**, com interesse em qualidade de software, análise estática e tratamento de exceções.
